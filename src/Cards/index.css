@@ -1,0 +1,24 @@
+.Card {
+  text-align: center;
+}
+
+.Card-logo {
+  width: 100%;
+  max-height: 200px;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+.Card-title {
+  font-size: 1.5em;
+}
+
+.Card-card {
+  margin: 40px;
+  display: inline-block;
+  position: relative;
+  background: #fff;
+  width: 25%;
+  min-height: 300px;
+  box-shadow: 0 19px 38px rgba(0,0,0,.1), 0 15px 12px rgba(0,0,0,.12);
+}
