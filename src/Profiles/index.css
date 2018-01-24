@@ -1,0 +1,21 @@
+.Profile-card {
+	width: 200px;
+	height: 250px;
+  position: relative;
+  background-color: #f9f9f9;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Profile-image {
+	width: 100px;
+}
+
+.Profile-title {
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.Profile-text {
+	font-size: 12px;
+}
